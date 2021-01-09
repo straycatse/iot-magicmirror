@@ -97,7 +97,6 @@ var config = {
 				feeds: [
 					{
 						title: "Senaste nytt",
-						//url: "https://samnytt.se/feed/"
 						url: "https://rss.aftonbladet.se/rss2/small/pages/sections/nyheter/"
 					}
 				],
