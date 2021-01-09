@@ -1,10 +1,8 @@
 /* Magic Mirror Config Sample
  *
- * By Michael Teeuw https://michaelteeuw.nl
+ * By Simon Solberg (siso1746)
  * MIT Licensed.
  *
- * For more information on how you can configure this file
- * See https://github.com/MichMich/MagicMirror#configuration
  *
  */
 
